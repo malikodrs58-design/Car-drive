@@ -1,0 +1,6 @@
+{
+  "name": "VR Cyber Racers | سباق السيارات الافتراضي",
+  "description": "لعبة سباق سيارات ثلاثية الأبعاد بالواقع الافتراضي (WebXR VR) مع طور لعب جماعي أونلاين وتخصيص سيارات ومسارات حماسية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
